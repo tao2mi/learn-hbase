@@ -1,0 +1,4 @@
+
+hbase:
+  zookeeper:
+    quorum: hbase126-node2:2181
